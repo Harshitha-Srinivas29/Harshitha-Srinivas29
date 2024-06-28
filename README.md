@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Harshitha-Srinivas29
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently working as a Full Stack Engineer.
 - 📫 How to reach me harshithasrini71@gmail.com
 
 <!---
