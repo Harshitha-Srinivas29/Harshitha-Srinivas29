@@ -181,7 +181,6 @@ A production-ready remote code execution service that safely runs code snippets 
 
 **🛠️ Built with:** React.js • Node.js • Express • Docker • Monaco
 
-[View Project →](https://github.com/yourusername/project)
 
 </td>
 <td width="50%">
@@ -201,7 +200,6 @@ An intelligent chat application combining real-time messaging with AI-powered re
 
 **🛠️ Built with:** Vue.js • TypeScript • Node.js • Neon • OpenAI • Stream SDK
 
-[View Project →](https://github.com/yourusername/project)
 
 </td>
 </tr>
@@ -221,7 +219,6 @@ A responsive e-commerce platform for a local café with real-time inventory mana
 
 **🛠️ Built with:** MongoDB • Express • React.js • Node.js
 
-[View Project →](https://github.com/yourusername/project)
 
 </td>
 <td width="50%">
